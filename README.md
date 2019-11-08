@@ -1,0 +1,2 @@
+# workspaceJPA
+exercices hibernate
